@@ -1,0 +1,6 @@
+﻿venv/
+__pycache__/
+*.pyc
+.env
+uploaded_resume.pdf
+database/*.db
